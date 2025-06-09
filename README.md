@@ -1,4 +1,4 @@
-# 🛡️ Phishing Detection Web App (Demo)
+# Phishing Detection Web App (Demo)
 
 ### Author: Kyrian Onyeagusi
 
@@ -26,8 +26,10 @@ This is a machine learning-powered web app that detects phishing emails and link
 > ✅ **App Interface**
 > ![App Homepage](./screenshots/home.png)
 
+
 > ✅ **Prediction Result**
 > ![Result Page](./screenshots/result-1.png)
+
 > ![Result Page](./screenshots/result-2.png)
 
 ---
@@ -52,7 +54,7 @@ This app is designed to:
 
 ---
 
-## 🔄 Future Features
+## Future Features
 
 * Gmail & Outlook integration using Google API / Microsoft Graph
 * Email scanning automation with alerts
@@ -60,7 +62,8 @@ This app is designed to:
 
 ---
 
-## 🔗 Live Demo / Request Access
+## Live Demo / Request Access
 
 **Live App**: \[Coming Soon]
+
 **Contact**: [cyberkyrian@gmail.com](mailto:cyberkyrian@gmail.com)
