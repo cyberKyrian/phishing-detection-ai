@@ -27,7 +27,8 @@ This is a machine learning-powered web app that detects phishing emails and link
 > ![App Homepage](./screenshots/home.png)
 
 > ✅ **Prediction Result**
-> ![Result Page](./screenshots/result.png)
+> ![Result Page](./screenshots/result-1.png)
+> ![Result Page](./screenshots/result-2.png)
 
 ---
 
